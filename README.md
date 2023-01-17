@@ -4,7 +4,7 @@ This is a chat application that can be used for local usage in a small network. 
 # Instructions to run
 Clone the project
 ```
-git clone https://github.com/bjmnlx20/simpleChatApp.git
+git clone https://github.com/bjmnlx20/chat-app-base.git
 ```
 
 ### DataBase - Mongo
@@ -27,14 +27,14 @@ Your server will be setup and ready for use.
 
 # Few Screen Shots
 #### Login Screen
-![login screen](https://github.com/bjmnlx20/simpleChatApp/blob/master/screenshots/login.png "Login Page")  
+![login screen](https://github.com/bjmnlx20/chat-app-base/blob/master/screenshots/login.png "Login Page")  
 #### Confirming request 
-![Confirming request to chat](https://github.com/bjmnlx20/simpleChatApp/blob/master/screenshots/confirm_request.png "Confirming Request")  
+![Confirming request to chat](https://github.com/bjmnlx20/chat-app-base/blob/master/screenshots/confirm_request.png "Confirming Request")  
 #### Online users
-![online users](https://github.com/bjmnlx20/simpleChatApp/blob/master/screenshots/online_users.png "Online users")  
+![online users](https://github.com/bjmnlx20/chat-app-base/blob/master/screenshots/online_users.png "Online users")  
 
 #### Chatting with Friend
-![Chatting](https://github.com/bjmnlx20/simpleChatApp/blob/master/screenshots/chat.png? "Chatting with Friend")
+![Chatting](https://github.com/bjmnlx20/chat-app-base/blob/master/screenshots/chat.png? "Chatting with Friend")
 
 # Upcoming
 * Bug fixes.
